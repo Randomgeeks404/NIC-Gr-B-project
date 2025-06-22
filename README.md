@@ -5,9 +5,9 @@ Training Date: 16.June.2025
 
 Group B team members or say project authors include:
     Sourav,
-    Anthony,
-    Robin,
-    Samuel,
+    Anthony Halavath,
+    Robin Kumar,
+    Samuel Lalrohlua,
     Lalpianthara,
     Ashish Upadhya
     
